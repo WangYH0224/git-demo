@@ -15,3 +15,4 @@ hello atguigu! hello git!
 0224账户修改
 0224账户第二次修改练习
 github更新
+gitee更新
